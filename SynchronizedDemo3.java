@@ -34,7 +34,7 @@ class MyThread extends Thread
    }
 }
 
-public class SynchronizedDemo2
+public class SynchronizedDemo3
 {
   public static void main(String[] args)
   {
